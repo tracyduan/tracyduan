@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Tracy 👋
 
-<!--
-**tracyduan/tracyduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Enterprise Systems, Data & AI Solution Architecture
 
-Here are some ideas to get you started:
+I am an enterprise systems and data professional with experience across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enterprise solution design
+- Dynamics 365 Finance
+- Finance and ERP processes
+- Data integration
+- Data Analysis 
+
+I'm currently expanding my experience into:
+
+- Microsoft Azure
+- Microsoft Fabric
+- Enterprise AI Solution Architecture
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- AI Governance
+
+## 🚧 Current Projects
+
+### 💰 Finance Intelligence Copilot
+
+**Status: In Progress**
+
+Designing an AI-assisted finance analysis solution focused on:
+
+- Financial transaction analysis
+- Data quality validation
+- Anomaly detection
+- Reconciliation support
+- AI-assisted explanation of financial exceptions
+
+### 🧠 Enterprise Knowledge Companion
+
+**Status: Planning / Architecture**
+
+Exploring enterprise knowledge retrieval using RAG, enterprise data sources and secure access controls.
+
+### 🛡️ Enterprise AI Governance
+
+**Status: Research / Architecture**
+
+Exploring architecture patterns for enterprise AI governance, identity, security, auditability and responsible AI.
